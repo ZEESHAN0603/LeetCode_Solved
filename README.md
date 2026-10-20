@@ -32,8 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/0001-two-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1207-unique-number-of-occurrences) |
+| [1929-concatenation-of-array](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/0009-palindrome-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
