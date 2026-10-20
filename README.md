@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1207-unique-number-of-occurrences) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
