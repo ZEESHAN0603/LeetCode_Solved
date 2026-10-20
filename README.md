@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/0387-first-unique-character-in-a-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |
