@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/0001-two-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1207-unique-number-of-occurrences) |
+| [1920-build-array-from-permutation](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -40,5 +41,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
