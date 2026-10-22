@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -50,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ZEESHAN0603/LeetCode_Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
